@@ -239,9 +239,9 @@ helpDialog model =
         [ Dialog.title [] [ text "About" ]
         , Dialog.content []
             [ Html.p []
-                [ text "elm-mdl is awesome." ]
+                [ text "Dashboard of animes I have seen that made enough impact for me to remember them." ]
             , Html.p []
-                [ text "it really is." ]
+                [ text "Created by Ashton Hellwig based on the Dashboard template" ]
             ]
         , Dialog.actions []
             [ Options.styled Html.span
